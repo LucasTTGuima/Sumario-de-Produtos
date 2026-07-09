@@ -8,7 +8,11 @@ O programa aceita uma variação de número de pedidos, no exemplo eu fixei um s
 
 Segue abaixo a estruturação e o retorno do programa:
 
-##Tecnologias usadas:
+<img src="https://github.com/LucasTTGuima/Sumario-de-Produtos/blob/7654451cda7f03a828525883a1caa559887bae65/Captura%20de%20tela%202026-07-09%20120046.png" alt="Estruturação">
+
+<img src="https://github.com/LucasTTGuima/Sumario-de-Produtos/blob/7654451cda7f03a828525883a1caa559887bae65/Captura%20de%20tela%202026-07-09%20115959.png" alt="Estruturação">
+
+## Tecnologias usadas:
 - Java
 - SpringBoot/Eclipse
 
